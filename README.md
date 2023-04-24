@@ -21,7 +21,7 @@ Creating the dashboard involved creating gauges using pie charts and circles. It
 <img src="https://user-images.githubusercontent.com/123564919/233948104-d3e78bde-337b-4460-8e26-ee13dd32cb15.png" width="90%"></img>
 <h6>Movie Finder Tableau</h6>
 
-The big issue with the data is that during the joining of the csv files through python, we had issues using the UTF-8 encoder and has to use the ISO-8859-1 encoder instead. Now That we have worked with the data, we can see that thier are many errors in the original csv files, these errors are because many movies use unique characters as they are from different countries. These issues have caused certain title and descriptions to have the wrong characters displayed.
+The big issue with the data is that during the joining of the CSV files through Python, we had issues using the UTF-8 encoder and had to use the ISO-8859-1 encoder instead. Now that we have worked with the data, we can see that there are many errors in the original CSV files. These errors are because many movies use unique characters as they are from different countries. These issues have caused certain titles and descriptions to have the wrong characters displayed.
 
 <img src="https://user-images.githubusercontent.com/123564919/233948112-66fffc4f-b933-46cf-937e-2697ce9d4a9f.png" width="90%"></img>
 <h6>Movie Finder Tableau</h6>
